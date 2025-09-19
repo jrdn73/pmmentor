@@ -153,7 +153,7 @@ export async function POST(request: NextRequest) {
 
     // Return PDF as response
     console.log('Returning PDF response');
-    return new NextResponse(pdfBytes, {
+    return new NextResponse(pdfBytes.buffer, {
       status: 200,
       headers: {
         'Content-Type': 'application/pdf',
