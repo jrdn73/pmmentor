@@ -3,7 +3,6 @@
 import { useState } from 'react';
 import { CheckCircle, ExternalLink, Download, Clock, BookOpen, Target } from 'lucide-react';
 import { Roadmap } from '@/app/page';
-import { generatePDF } from '@/utils/pdfGenerator';
 
 interface RoadmapDisplayProps {
   roadmap: Roadmap;
@@ -18,10 +17,44 @@ export default function RoadmapDisplay({ roadmap }: RoadmapDisplayProps) {
 
   const handleExportPDF = async () => {
     try {
-      await generatePDF(roadmap);
+      console.log('Starting PDF export for roadmap:', roadmap.id);
+      
+      const response = await fetch('/api/generate-pdf', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(roadmap),
+      });
+
+      console.log('PDF API response status:', response.status);
+
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({ error: 'Unknown error' }));
+        console.error('PDF generation failed:', errorData);
+        throw new Error(errorData.error || 'Failed to generate PDF');
+      }
+
+      // Create blob from response
+      console.log('Creating blob from response...');
+      const blob = await response.blob();
+      console.log('Blob created, size:', blob.size, 'bytes');
+      
+      const url = window.URL.createObjectURL(blob);
+      
+      // Create download link
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `career-roadmap-${roadmap.id}.pdf`;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
+      
+      console.log('PDF download initiated successfully');
     } catch (error) {
       console.error('Error generating PDF:', error);
-      alert('Failed to export PDF. Please try again.');
+      alert(`Failed to export PDF: ${error instanceof Error ? error.message : 'Unknown error'}`);
     }
   };
 
