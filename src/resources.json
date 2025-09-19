@@ -1,0 +1,227 @@
+[
+  {
+    "id": "res_001",
+    "title": "The Lean Startup by Eric Ries",
+    "type": "book",
+    "category": "entrepreneurship",
+    "description": "A methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable.",
+    "url": "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898",
+    "tags": ["startup", "mvp", "validation", "iteration"]
+  },
+  {
+    "id": "res_002",
+    "title": "Atomic Habits by James Clear",
+    "type": "book",
+    "category": "productivity",
+    "description": "A comprehensive guide on building good habits and breaking bad ones, with practical strategies for behavior change.",
+    "url": "https://jamesclear.com/atomic-habits",
+    "tags": ["habits", "productivity", "behavior", "self-improvement"]
+  },
+  {
+    "id": "res_003",
+    "title": "Deep Work by Cal Newport",
+    "type": "book",
+    "category": "productivity",
+    "description": "Rules for focused success in a distracted world, emphasizing the importance of deep, concentrated work.",
+    "url": "https://www.calnewport.com/books/deep-work/",
+    "tags": ["focus", "productivity", "concentration", "work-life"]
+  },
+  {
+    "id": "res_004",
+    "title": "Coursera - Machine Learning Course by Andrew Ng",
+    "type": "course",
+    "category": "data-science",
+    "description": "Comprehensive introduction to machine learning, covering supervised learning, unsupervised learning, and best practices.",
+    "url": "https://www.coursera.org/learn/machine-learning",
+    "tags": ["machine-learning", "ai", "statistics", "algorithms"]
+  },
+  {
+    "id": "res_005",
+    "title": "FreeCodeCamp Full Stack Development",
+    "type": "course",
+    "category": "web-development",
+    "description": "Free comprehensive curriculum covering HTML, CSS, JavaScript, React, Node.js, and databases.",
+    "url": "https://www.freecodecamp.org/",
+    "tags": ["web-development", "javascript", "react", "nodejs", "free"]
+  },
+  {
+    "id": "res_006",
+    "title": "The Pragmatic Programmer by David Thomas",
+    "type": "book",
+    "category": "software-engineering",
+    "description": "A practical guide to software development with tips and techniques for becoming a more effective programmer.",
+    "url": "https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/",
+    "tags": ["programming", "software-engineering", "best-practices", "career"]
+  },
+  {
+    "id": "res_007",
+    "title": "System Design Interview by Alex Xu",
+    "type": "book",
+    "category": "software-engineering",
+    "description": "Comprehensive guide to system design interviews with real-world examples and scalable architecture patterns.",
+    "url": "https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF",
+    "tags": ["system-design", "interviews", "architecture", "scalability"]
+  },
+  {
+    "id": "res_008",
+    "title": "Harvard CS50 - Introduction to Computer Science",
+    "type": "course",
+    "category": "computer-science",
+    "description": "Harvard's introductory computer science course covering programming fundamentals and computer science concepts.",
+    "url": "https://cs50.harvard.edu/",
+    "tags": ["computer-science", "programming", "algorithms", "data-structures"]
+  },
+  {
+    "id": "res_009",
+    "title": "The Manager's Path by Camille Fournier",
+    "type": "book",
+    "category": "leadership",
+    "description": "A practical guide for engineering managers, covering the transition from individual contributor to leadership roles.",
+    "url": "https://www.oreilly.com/library/view/the-managers-path/9781491973882/",
+    "tags": ["management", "leadership", "engineering", "career-growth"]
+  },
+  {
+    "id": "res_010",
+    "title": "Designing Data-Intensive Applications by Martin Kleppmann",
+    "type": "book",
+    "category": "software-engineering",
+    "description": "Comprehensive guide to building reliable, scalable, and maintainable data-intensive applications.",
+    "url": "https://dataintensive.net/",
+    "tags": ["databases", "distributed-systems", "scalability", "architecture"]
+  },
+  {
+    "id": "res_011",
+    "title": "Cracking the Coding Interview by Gayle McDowell",
+    "type": "book",
+    "category": "interviews",
+    "description": "Comprehensive guide to technical interviews with coding problems, solutions, and interview strategies.",
+    "url": "https://www.crackingthecodinginterview.com/",
+    "tags": ["interviews", "algorithms", "data-structures", "problem-solving"]
+  },
+  {
+    "id": "res_012",
+    "title": "AWS Certified Solutions Architect",
+    "type": "certification",
+    "category": "cloud-computing",
+    "description": "Amazon's certification for designing distributed systems on AWS platform.",
+    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "tags": ["aws", "cloud", "architecture", "certification"]
+  },
+  {
+    "id": "res_013",
+    "title": "Clean Code by Robert Martin",
+    "type": "book",
+    "category": "software-engineering",
+    "description": "A handbook of agile software craftsmanship with principles for writing clean, maintainable code.",
+    "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "tags": ["clean-code", "programming", "best-practices", "maintainability"]
+  },
+  {
+    "id": "res_014",
+    "title": "The Art of Computer Programming by Donald Knuth",
+    "type": "book",
+    "category": "computer-science",
+    "description": "Comprehensive series on computer programming algorithms and mathematical foundations.",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+    "tags": ["algorithms", "mathematics", "computer-science", "advanced"]
+  },
+  {
+    "id": "res_015",
+    "title": "React Documentation",
+    "type": "documentation",
+    "category": "web-development",
+    "description": "Official React documentation with tutorials, guides, and API reference.",
+    "url": "https://react.dev/",
+    "tags": ["react", "frontend", "javascript", "ui"]
+  },
+  {
+    "id": "res_016",
+    "title": "Python for Data Science Handbook by Jake VanderPlas",
+    "type": "book",
+    "category": "data-science",
+    "description": "Comprehensive guide to using Python for data analysis, visualization, and machine learning.",
+    "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+    "tags": ["python", "data-science", "pandas", "numpy", "matplotlib"]
+  },
+  {
+    "id": "res_017",
+    "title": "The Phoenix Project by Gene Kim",
+    "type": "book",
+    "category": "devops",
+    "description": "A novel about IT, DevOps, and helping your business win through the lens of a fictional company's transformation.",
+    "url": "https://itrevolution.com/the-phoenix-project/",
+    "tags": ["devops", "it-management", "culture", "transformation"]
+  },
+  {
+    "id": "res_018",
+    "title": "Kubernetes Documentation",
+    "type": "documentation",
+    "category": "devops",
+    "description": "Official Kubernetes documentation for container orchestration and management.",
+    "url": "https://kubernetes.io/docs/",
+    "tags": ["kubernetes", "containers", "orchestration", "devops"]
+  },
+  {
+    "id": "res_019",
+    "title": "The Mythical Man-Month by Frederick Brooks",
+    "type": "book",
+    "category": "software-engineering",
+    "description": "Classic essays on software engineering and project management, including the famous 'Brooks's Law'.",
+    "url": "https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959",
+    "tags": ["project-management", "software-engineering", "team-management", "classic"]
+  },
+  {
+    "id": "res_020",
+    "title": "Google Cloud Platform Fundamentals",
+    "type": "course",
+    "category": "cloud-computing",
+    "description": "Google's course covering GCP services, architecture, and best practices for cloud computing.",
+    "url": "https://www.coursera.org/learn/gcp-fundamentals",
+    "tags": ["gcp", "cloud", "google", "fundamentals"]
+  },
+  {
+    "id": "res_021",
+    "title": "The DevOps Handbook by Gene Kim",
+    "type": "book",
+    "category": "devops",
+    "description": "Practical guide to implementing DevOps practices and creating a culture of continuous delivery.",
+    "url": "https://itrevolution.com/the-devops-handbook/",
+    "tags": ["devops", "culture", "automation", "continuous-delivery"]
+  },
+  {
+    "id": "res_022",
+    "title": "Eloquent JavaScript by Marijn Haverbeke",
+    "type": "book",
+    "category": "web-development",
+    "description": "A modern introduction to programming using JavaScript, available free online.",
+    "url": "https://eloquentjavascript.net/",
+    "tags": ["javascript", "programming", "web-development", "free"]
+  },
+  {
+    "id": "res_023",
+    "title": "High Performance Browser Networking by Ilya Grigorik",
+    "type": "book",
+    "category": "web-development",
+    "description": "Comprehensive guide to web performance optimization and network protocols.",
+    "url": "https://hpbn.co/",
+    "tags": ["performance", "networking", "web-optimization", "browsers"]
+  },
+  {
+    "id": "res_024",
+    "title": "The Effective Engineer by Edmond Lau",
+    "type": "book",
+    "category": "software-engineering",
+    "description": "Practical advice for software engineers on how to maximize their impact and career growth.",
+    "url": "https://www.theeffectiveengineer.com/",
+    "tags": ["career", "productivity", "engineering", "impact"]
+  },
+  {
+    "id": "res_025",
+    "title": "Docker Documentation",
+    "type": "documentation",
+    "category": "devops",
+    "description": "Official Docker documentation for containerization and container orchestration.",
+    "url": "https://docs.docker.com/",
+    "tags": ["docker", "containers", "devops", "deployment"]
+  }
+]

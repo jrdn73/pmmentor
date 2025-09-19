@@ -1,0 +1,361 @@
+[
+  {
+    "id": "res_001",
+    "title": "Recruiting Timeline Overview",
+    "url": "internal://apm_game_plan/timeline",
+    "topic": [
+      "timeline",
+      "recruiting"
+    ],
+    "audience": [
+      "student",
+      "early-career"
+    ],
+    "notes": "APM recruiting runs on cycles. Apps open July/Aug, interviews ramp up Sept–Dec, FT roles mostly kick off Aug. Don't miss the window!",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_002",
+    "title": "APM Interview Process (Interns)",
+    "url": "internal://apm_game_plan/interview_flows",
+    "topic": [
+      "interviews",
+      "apm",
+      "internship"
+    ],
+    "audience": [
+      "student"
+    ],
+    "notes": "Most APM interviews = resume screen + PM interview + final round. Google/Salesforce add recruiter calls. Roblox/Duolingo/Gopuff add written assignments.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_003",
+    "title": "The Game Plan – 4 Principles",
+    "url": "internal://apm_game_plan/gameplan",
+    "topic": [
+      "strategy",
+      "prep"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "1) Apply ASAP 🚀 2) Network Bruh 😎 3) Prep Early 📚 4) Tell A Story 🎤",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_004",
+    "title": "Build a Kick-Ass Resume",
+    "url": "internal://apm_game_plan/resume",
+    "topic": [
+      "resume"
+    ],
+    "audience": [
+      "student",
+      "early-career"
+    ],
+    "notes": "Impact > everything. Show you did cool shit, keep bullets clean, product-focused, and concise.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_005",
+    "title": "Meet Some Dope People",
+    "url": "internal://apm_game_plan/networking",
+    "topic": [
+      "networking"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Primary goal = be curious, ask good questions, be a good person. Secondary = snag a referral. Genuine > transactional.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_006",
+    "title": "Develop YOUR Toolbox",
+    "url": "internal://apm_game_plan/toolbox",
+    "topic": [
+      "interviews",
+      "prep"
+    ],
+    "audience": [
+      "student"
+    ],
+    "notes": "PMs are storytellers. Interviews are gameable. Practice a little over time. Learn what good looks like and emulate it.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_007",
+    "title": "PMs are Storytellers",
+    "url": "internal://apm_game_plan/storytelling",
+    "topic": [
+      "storytelling",
+      "interviews"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "You are the product here. Be yourself. An interview = just another conversation. Share your story, not just keywords.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_008",
+    "title": "STAR Method Explained",
+    "url": "internal://jordan/star-framework",
+    "topic": [
+      "interviews",
+      "resume"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Situation → Task → Action → Result. Structure your stories to show impact and leadership.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_009",
+    "title": "Outreach Template – Alumni Coffee Chat",
+    "url": "internal://jordan/networking_template",
+    "topic": [
+      "networking"
+    ],
+    "audience": [
+      "student"
+    ],
+    "notes": "Keep it short, genuine, and respectful of time. Personalize why you’re reaching out.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_010",
+    "title": "Cracking the PM Interview (Book)",
+    "url": "https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818",
+    "topic": [
+      "interviews",
+      "prep"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Classic prep guide for PM interviews. Use frameworks but don’t lose authenticity.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_011",
+    "title": "Product Teardown Framework",
+    "url": "internal://jordan/product_teardown",
+    "topic": [
+      "product-sense"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Pick an app, describe the user, highlight pain points, propose improvements. Great way to practice product sense.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_012",
+    "title": "Practice Resource – Exponent PM Questions",
+    "url": "https://www.tryexponent.com/questions",
+    "topic": [
+      "interviews",
+      "prep"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Free library of PM interview questions (product sense, estimation, strategy).",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_013",
+    "title": "Networking Criteria Checklist",
+    "url": "internal://jordan/networking_criteria",
+    "topic": [
+      "networking"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Who to reach out to: APMs, alumni at target companies, ex-interns, 1–2 levels above you.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_014",
+    "title": "SQL for PMs – Crash Course",
+    "url": "https://mode.com/sql-tutorial/",
+    "topic": [
+      "sql",
+      "technical"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Know basics: SELECT, JOIN, COUNT. Enough to talk to engineers and run queries.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_015",
+    "title": "AB Testing Basics for PMs",
+    "url": "https://www.optimizely.com/optimization-glossary/ab-testing/",
+    "topic": [
+      "experimentation",
+      "technical"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Understand control vs treatment, sample size, and why metrics matter.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_016",
+    "title": "LinkedIn Job Search Tips",
+    "url": "internal://jordan/linkedin_job_search",
+    "topic": [
+      "linkedin",
+      "job-search"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Use filters smartly, set alerts, and let recruiters know you’re open.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_017",
+    "title": "Resume Bullet Formula",
+    "url": "internal://jordan/resume_bullet_formula",
+    "topic": [
+      "resume"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Action verb + what you did + quantified result. Keep it sharp and impact-driven.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_018",
+    "title": "Behavioral Interview Prep",
+    "url": "internal://jordan/behavioral_prep",
+    "topic": [
+      "interviews"
+    ],
+    "audience": [
+      "student"
+    ],
+    "notes": "Have 4–5 strong STAR stories ready: leadership, conflict, failure, success, teamwork.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_019",
+    "title": "Networking Goal Tracker",
+    "url": "internal://jordan/networking_tracker",
+    "topic": [
+      "networking"
+    ],
+    "audience": [
+      "student"
+    ],
+    "notes": "Track how many chats you’ve done. Aim for 1 per week, keep it consistent.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_020",
+    "title": "Jordan’s Big 3 APM Programs Guide",
+    "url": "internal://jordan/apm_big3",
+    "topic": [
+      "apm",
+      "programs"
+    ],
+    "audience": [
+      "student"
+    ],
+    "notes": "Google APM, Salesforce APM, LinkedIn APM. Highly competitive, structured training.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_021",
+    "title": "PM Case Interview Walkthrough",
+    "url": "internal://jordan/case_prep",
+    "topic": [
+      "interviews",
+      "prep"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Step through a product case: clarify, structure, brainstorm, tradeoffs, recommend.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_022",
+    "title": "Networking Outreach Template (Referral)",
+    "url": "internal://jordan/referral_template",
+    "topic": [
+      "networking"
+    ],
+    "audience": [
+      "student"
+    ],
+    "notes": "Ask for advice first, referrals second. Keep it genuine. If it clicks, they’ll help.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_023",
+    "title": "PM Portfolio Project Ideas",
+    "url": "internal://jordan/portfolio_ideas",
+    "topic": [
+      "portfolio",
+      "projects"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Build something dope: side project, nonprofit, campus initiative. Impact > polish.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_024",
+    "title": "Jordan’s Advice: Be Yourself",
+    "url": "internal://jordan/authenticity",
+    "topic": [
+      "authenticity",
+      "mindset"
+    ],
+    "audience": [
+      "student",
+      "career-switcher"
+    ],
+    "notes": "Don’t fake frameworks. Show your spark. Authentic > perfect.",
+    "last_reviewed": "2025-09-01"
+  },
+  {
+    "id": "res_025",
+    "title": "Interview Reps Tracker",
+    "url": "internal://jordan/interview_tracker",
+    "topic": [
+      "interviews",
+      "prep"
+    ],
+    "audience": [
+      "student"
+    ],
+    "notes": "Practice product sense like the gym. Track reps → confidence goes up. Aim for 10–15 before interviews.",
+    "last_reviewed": "2025-09-01"
+  }
+]
