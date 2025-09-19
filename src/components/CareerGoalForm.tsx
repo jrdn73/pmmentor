@@ -61,7 +61,7 @@ export default function CareerGoalForm({ onSubmit, isLoading }: CareerGoalFormPr
             onChange={handleChange}
             placeholder="e.g., Become a Senior Software Engineer at a tech company"
             required
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent text-lg placeholder-gray-400"
+            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent text-lg text-gray-900 placeholder-gray-400"
           />
         </div>
 
@@ -78,7 +78,7 @@ export default function CareerGoalForm({ onSubmit, isLoading }: CareerGoalFormPr
             onChange={handleChange}
             placeholder="e.g., I&apos;m a junior developer with 2 years of experience in React and Node.js"
             rows={3}
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent text-lg placeholder-gray-400 resize-none"
+            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent text-lg text-gray-900 placeholder-gray-400 resize-none"
           />
         </div>
 
@@ -95,7 +95,7 @@ export default function CareerGoalForm({ onSubmit, isLoading }: CareerGoalFormPr
             value={formData.timeline}
             onChange={handleChange}
             placeholder="e.g., 6 months, 1 year, 2 years"
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent text-lg placeholder-gray-400"
+            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent text-lg text-gray-900 placeholder-gray-400"
           />
         </div>
 
@@ -112,7 +112,7 @@ export default function CareerGoalForm({ onSubmit, isLoading }: CareerGoalFormPr
             value={formData.weaknesses}
             onChange={handleChange}
             placeholder="e.g., system design, leadership, algorithms (comma-separated)"
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent text-lg placeholder-gray-400"
+            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent text-lg text-gray-900 placeholder-gray-400"
           />
           <p className="text-sm text-gray-500 mt-2">
             Separate multiple areas with commas
